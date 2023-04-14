@@ -87,6 +87,7 @@ if (loaded){
         </ul>
         <br/>
         <br/>
+        <a href="https://github.com/mahsamnfpr/weather-react" target="_blank" rel="noreferrer" >open source code by Mahsa Manafpour</a>
         </div>
         
     );
